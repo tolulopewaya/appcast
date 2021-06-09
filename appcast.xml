@@ -5,10 +5,12 @@
         <item>
             <title>Version 2.0.0</title>
             <description>
-                <![CDATA[Airtime
+                <![CDATA[
+                    Airtime
                     Data Bundle
-                    Bills Payment]]>
-                now available</description>
+                    Bills Payment
+                    ]]>
+                </description>
             <pubDate>Tue, 08 Jun 2021 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.mobinet.chanellemfb" sparkle:version="2.0.0" sparkle:os="android" sparkle:minAppVersion"1.0.0" />
             <sparkle:minimumAutoupdateVersion>1.0.0</sparkle:minimumAutoupdateVersion>
