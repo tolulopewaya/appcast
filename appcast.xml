@@ -12,8 +12,8 @@
                     ]]>
                 </description>
             <pubDate>Tue, 08 Jun 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.mobinet.chanellemfb" sparkle:version="2.0.0" sparkle:os="android" sparkle:minAppVersion="1.0.0" />
-            <sparkle:minimumSystemVersion>0.5.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.mobinet.chanellemfb" sparkle:version="2.0.0" sparkle:os="android" sparkle:minAppVersion="2.0.0" />
+            <sparkle:minimumSystemVersion>2.0.0</sparkle:minimumSystemVersion>
         </item>
         
         <item>
@@ -26,8 +26,8 @@
                     ]]>
                 </description>
             <pubDate>Tue, 08 Jun 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.mobinet.chanellemfb" sparkle:version="2.0.0" sparkle:os="ios" sparkle:minAppVersion="0.7.0" />
-            <sparkle:minimumSystemVersion>0.7.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.mobinet.chanellemfb" sparkle:version="2.0.0" sparkle:os="ios" sparkle:minAppVersion="2.0.0" />
+            <sparkle:minimumSystemVersion>2.0.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
